@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
     "doc/god/god",
     "doc/god/god.conf",
     "doc/god/god.init.erb",
-    "doc/nginx/nginx.init",
+    # "doc/nginx/nginx.init",
     "generators/app.god.erb",
     "generators/nginx.conf.erb",
     "generators/unicorn.rb.erb",
